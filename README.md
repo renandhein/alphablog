@@ -1,3 +1,4 @@
-This is the repository of the Alpha Blog app of the Rails JavaScript Development course.
+Personal derivative of the Alpha Blog app with Rails + React setup by the Udemy Rails JavaScript Development course:
+https://github.com/railsjavascriptcourse/alpha-blog
 
-- This was built using Ruby on Rails
+Made to learn, toy and experiment with the Rails + React integration
